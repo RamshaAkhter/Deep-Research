@@ -2,7 +2,8 @@
 
 A sophisticated research automation tool that leverages LangChain and LangGraph to conduct in-depth research on any topic. The system uses multiple AI agents working together to gather information, analyze data, and generate comprehensive research reports.
 
-#Credits
+##Credits
+
 This is a modified/extended version of the original Deep Research project by @psykick-21 (MIT).
 
 ## Prerequisites
@@ -136,4 +137,5 @@ You can customize the research process by modifying the following parameters in 
 ## License
 
 This project is licensed under the terms included in the LICENSE file.
+
 
